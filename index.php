@@ -64,9 +64,9 @@ function dintChangeArgument($val){
 }
 $value = 5;
 $result = dintChangeArgument($value);
-echo 'value = ' . $value . '; $result = ' . $result . '<br/>';
+echo 'value = ' . $value . '; $resultf = ' . $result . '<br/>';
 
-sss ssasasas
+
 ?>
 
 
@@ -77,4 +77,4 @@ sss ssasasas
         $("#test").text('WWWWWW')
     });
 </script>
-</html>
+</html>-
