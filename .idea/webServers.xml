@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2118a9f7-1ae1-446e-839c-97e28d824b75" name="test_php" url="http://192.168.239.130/">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" host="192.168.239.130" port="22" sshConfigId="ee49bcca-f3ec-4617-a3d3-208bac845af1" sshConfig="oko@192.168.239.130:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
